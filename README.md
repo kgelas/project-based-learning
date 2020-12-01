@@ -6,6 +6,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
+- [Systems](#sys)
 - [C#](#c)
 - [C/C++](#cc)
 - [Clojure](#clojure)
@@ -28,6 +29,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Scala](#scala)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
+
+## Systems:
+- [Busybox-based Linux distro from scratch](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 
 ## C/C++:
 
