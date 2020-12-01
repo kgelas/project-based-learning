@@ -6,7 +6,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
-- [Systems](#sys)
+- [Systems](#systems)
 - [C#](#c)
 - [C/C++](#cc)
 - [Clojure](#clojure)
