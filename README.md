@@ -30,6 +30,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
 
+# Books
+- [Modern C](https://modernc.gforge.inria.fr/)
+- [CS106A](https://web.stanford.edu/class/cs106a/lectures/1-Welcome/)
+
 ## Systems:
 
 - [Busybox-based Linux distro from scratch](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
