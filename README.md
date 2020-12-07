@@ -353,6 +353,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Web Applications:
 
+- [Building a live video streaming website](https://benwilber.github.io/nginx/rtmp/live/video/streaming/2018/03/25/building-a-live-video-streaming-website-part-1-start-streaming.html)
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - Create a Blog Web App In Django
   - [Part I : Introduction](https://tutorial.djangogirls.org/en/)
